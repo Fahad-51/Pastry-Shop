@@ -11,7 +11,7 @@ import ProductDetails from './pages/viewDetails';
 import CartPage from './pages/CartPage'; 
 import Checkout from './pages/Checkout'; 
 import Inbox from './pages/Inbox'; 
-import EditProduct from './pages/editProduct';
+import EditProduct from './pages/EditProduct';
 import AddProduct from './pages/AddProduct';
 import AdminOrders from './pages/AdminOrders';
 import axios from 'axios';
