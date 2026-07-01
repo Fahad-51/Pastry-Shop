@@ -20,7 +20,7 @@ const port = process.env.PORT || 4000;
 connectDB();
 
 // Allowed origins for CORS
-const allowedOrigins = ['http://localhost:5173', 'https://frostypastry-nine.vercel.app/'];
+const allowedOrigins = ['http://localhost:5173', 'https://frostypastry-nine.vercel.app'];
 
 // Middlewares
 app.use(express.json());
